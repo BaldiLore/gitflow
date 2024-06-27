@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>it.test</groupId>
 	<artifactId>gitflow</artifactId>
-	<version>0.0.1-feature3</version>
+	<version>0.0.1</version>
 	<name>gitflow</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
