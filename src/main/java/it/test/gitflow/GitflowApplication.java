@@ -10,6 +10,7 @@ public class GitflowApplication {
 	// FEATURE 1
 	// FEATURE 2
 	// FEATURE 3
+	// RELEASE
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitflowApplication.class, args);
